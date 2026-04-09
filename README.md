@@ -5,7 +5,7 @@ If you came to this page you already know what Iris is since this is a fork of t
 
 How to use in your own scripts:
 ```lua
-local Iris = loadstring(game:HttpGet("https://raw.githubusercontent.com/Brycki404/Iris/refs/heads/main/loader.lua", true))()
+local Iris = loadstring(game:HttpGet("https://raw.githubusercontent.com/CatOnEdge/Iris/refs/heads/main/loader.lua", true))()
 
 -- This is how you would use Iris within the same script Iris was loaded in
 -- Basic Iris Usage Example:
